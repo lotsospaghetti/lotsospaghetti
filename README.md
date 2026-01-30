@@ -66,9 +66,10 @@ I'm a homelabber and electronic musician aspiring to be a devops engineer, sysad
   <summary><b> 🕹️ Recently played</b></summary>
   <ul>
     <li><a href="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F55-days-left-of-posting-sonic-memes-until-sonic-racing-v0-d23my7jiejgf1.jpeg%3Fauto%3Dwebp%26s%3D8f9da83c643dfea6da2b42444c83e5e455c855b0">Sonic Racing: CrossWorlds</a></li>
-    <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3643434010">Z.A.T.O. // I Love the World and Everything In It</li>
+    <li><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3643434010">Z.A.T.O. // I Love the World and Everything In It</a></li>
   </ul>
+</details>
 
 ---
 
-<p align="center"><img alt="goomy cup" src="/assets/goomy-cup.gif"></p>
+<p align="center"><img alt="goomy cup" width="150" src="https://raw.githubusercontent.com/lotsospaghetti/lotsospaghetti/refs/heads/main/assets/goomy-cup.gif"></p>
