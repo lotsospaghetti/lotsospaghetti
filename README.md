@@ -8,7 +8,6 @@
   <a href="https://lotsaspaghetti.bandcamp.com/" target="_blank"><img alt="Bandcamp" src="https://img.shields.io/badge/Bandcamp-408294?style=flat-square&logo=bandcamp&logoColor=white"></a>
   <a href="https://lotsaspaghetti.com" target="_blank"><img alt="Eleventy personal site" src="https://img.shields.io/badge/my%20website!-3a0676?style=flat-square&logo=eleventy&logoColor=ff2e8a"></a>
   <a href="https://codeberg.org/lotsaspaghetti/dotfiles" target="_blank"><img alt="dotfiles repository" src="https://img.shields.io/badge/my%20.dotfiles-3e474a?style=flat-square&logo=gnubash"></a>
-  <a href="https://codeberg.org/lotsaspaghetti/noiselab" target="_blank"><img alt="noiselab repo" src="https://img.shields.io/badge/noiselab-262261?style=flat-square&logo=opencontainersinitiative"></a>
 </p>
 
 I'm a homelabber and electronic musician aspiring to be a devops engineer, sysadmin, and FOSS contributor! c:
